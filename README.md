@@ -58,7 +58,7 @@ Dieses Repo enthält ein Jupyter Notebook, das die Installationsgeschwindigkeit 
 
 Im Notebook enthalten sind drei Balkendiagramme:
 
-1. **Installationsdauer**: pip (orange) vs uv (blau)
+1. **Installationsdauer**: pip (blau) vs uv (orange)
 2. **Maximale Speicherverwendung**: pip vs uv
 3. **Maximale CPU-Auslastung**: pip vs uv
 
